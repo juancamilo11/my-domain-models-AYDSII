@@ -37,8 +37,16 @@ Link: https://drive.google.com/file/d/1yFEGuFvbo9H9_wYGGplyB3ZYkaH7jLok/view?usp
 
 
 
-5- Ejercicio #5
+5. Ejercicio #5
 
 Un niño tiene 2 personas como padres. Los dos padres pueden procrear varios niños.
 
 Link: https://drive.google.com/file/d/1aVEuuUlbgZ0ygAXbtsSW_6cCMM2nl3n1/view?usp=sharing
+
+
+
+6. Ejercicio #6
+
+Los empleados tienen 1 solo jefe.  Y los jefes, tienen a su cargo, varios subordinados. 
+
+Link: https://drive.google.com/file/d/16K8g-HBg4zD127no9CJs_Xnonq94yDaw/view?usp=sharing
