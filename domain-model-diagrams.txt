@@ -60,3 +60,13 @@ básico de su salario.  Tenga en cuenta que una misma persona puede trabajar en 
 compañías. Ej, un profesor trabaja en varias universidades. Un analista trabaja en 2 compañías.
 
 Link: https://drive.google.com/file/d/1MfrkBpQvRng-ScNHTomPvmH7vl7g5JzT/view?usp=sharing
+
+
+
+8. Ejercicio #8
+
+En una aerolínea, un vuelo se caracteriza por tener un número, una hora de salida, tiene una 
+ciudad origen, una ciudad destino, una tripulación que se conforma por un piloto principal, 
+un copiloto y 2 o 3 ayudantes de vuelo.
+
+Link: https://drive.google.com/file/d/1wZuS9kfWzmH0C4jOHFLdyZL6Apkkrbb3/view?usp=sharing
