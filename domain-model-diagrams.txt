@@ -1,0 +1,8 @@
+1. Ejercicio #1
+
+En un sistema de atención al cliente, se reciben quejas o reclamos.
+Las quejas se presentan de forma individual, esto es, que una sola persona
+es el autor de una queja, sin embargo, una misma persona puede
+postular varias quejas.
+
+Link: https://drive.google.com/file/d/1WLubrbK2FHr5k9pydrCU0aR5pQGK8eNX/view?usp=sharing
