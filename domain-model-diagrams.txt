@@ -70,3 +70,14 @@ ciudad origen, una ciudad destino, una tripulación que se conforma por un pilot
 un copiloto y 2 o 3 ayudantes de vuelo.
 
 Link: https://drive.google.com/file/d/1wZuS9kfWzmH0C4jOHFLdyZL6Apkkrbb3/view?usp=sharing
+
+
+
+9. Ejercicio #9
+
+
+Vamos a diseñar y programar un monopolio. Tenemos 1 tablero con 40 casillas, unas de 
+propiedades, de servicios públicos, de la cárcel, de abono, etc. Son de 2 a 4 jugadores
+y a cada uno le corresponde una ficha.
+
+Link: https://drive.google.com/file/d/1tXmmxdDk2PW1KSF7LbViJLlu4A41lED2/view?usp=sharing
