@@ -81,3 +81,36 @@ propiedades, de servicios públicos, de la cárcel, de abono, etc. Son de 2 a 4 
 y a cada uno le corresponde una ficha.
 
 Link: https://drive.google.com/file/d/1tXmmxdDk2PW1KSF7LbViJLlu4A41lED2/view?usp=sharing
+
+
+
+10. Ejercicio #10
+
+Sistema para un banco
+
+Se está desarrollando un sistema para un banco que permite crear cuentas bancarias a los clientes. Un cliente
+puede ser titular en varias cuentas bancarias, y cada cuenta siempre tiene solo un titular. Es decir,
+no se permiten crear cuentas sin un titular. Los clientes se caracterizan por tener un número
+ de identificación, un nombre completo y un tipo: preferencial o regular. Solo a los clientes preferenciales se les hace un
+descuento del 10% en la cuota de manejo.
+
+Las cuentas bancarias además de poseer un titular, tienen un número de cuenta, la fecha de creación y un saldo. El
+número de la cuenta y la fecha de creación son generados automáticamente por el sistema cuando se crea la cuenta, en
+ el primero caso con un número aleatorio de 10 dígitos, y en el segundo caso, se toma la fecha del día.
+
+El sistema bancario debe permitir realizar consignaciones y retiros a una cuenta con un monto específico, consultar
+el saldo, y ver los movimientos realizados. Además, debe permitir realizar un cierre del mes, y cada vez que se realice, se
+ deben generar los intereses a las cuentas y se cobran las cuotas de manejo en las mismas.
+
+Tenga en cuenta que las cuentas pueden existir dos tipos de cuentas: cuentas corrientes y cuentas de ahorros. Las cuentas
+corrientes exigen un monto para crearse, las de ahorros no. Las cuentas corrientes no generan intereses sobre el saldo que
+la cuenta posea a final de mes. Las de ahorros sí generan intereses (para el ejercicio, interés en cuentas de ahorro = 2%).
+
+Las cuentas corrientes no se pueden exonerar del cobro del 4x1000 en cada retiro, las de ahorros sí (para el ejercicio, se 
+exoneran todas las de ahorros). Además, a las cuentas corrientes se les puede aprobar un cupo de sobregiro, que es un 
+préstamo a corto plazo que hace el banco (para el ejercicio solo consideramos un valor de sobregiro). Y como las cuentas
+corrientes se pueden asociar a un datafono, entonces para ellas se cobra una comisión por los pagos recibidos con tarjetas
+débito o crédito (para el ejercicio esta comisión es del 1.4% [4]). Por el momento los cobros para el banco, se muestran 
+por consola, pero se considera que en un futuro se escribirán en un archivo.
+
+Link: https://drive.google.com/file/d/1g4DV7xWRvsrHFAqDPmjL4In4vnTTneXG/view?usp=sharing
