@@ -14,3 +14,13 @@ Link: https://drive.google.com/file/d/1WLubrbK2FHr5k9pydrCU0aR5pQGK8eNX/view?usp
 En mi juego, tengo héroes y enemigos que tienen varias armas  y una armadura, herramientas para reparar, y tienen un nivel de vida.
 
 Link: https://drive.google.com/file/d/1qs_xHxkHsMQ1finf4FFMNxrnb8YTfTBt/view?usp=sharing
+
+
+
+3. Ejercicio #3
+
+Tengo un sistema de facturación, donde cada factura cumple con
+una numeración reglamentaria, una fecha y total a pagar.
+Además, se le carga a un cliente particular.
+
+Link: https://drive.google.com/file/d/1PaD4Tl6N7C0PrKqwfzrWnVEZSPc3Bj_h/view?usp=sharing
