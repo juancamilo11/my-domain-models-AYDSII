@@ -50,3 +50,13 @@ Link: https://drive.google.com/file/d/1aVEuuUlbgZ0ygAXbtsSW_6cCMM2nl3n1/view?usp
 Los empleados tienen 1 solo jefe.  Y los jefes, tienen a su cargo, varios subordinados. 
 
 Link: https://drive.google.com/file/d/16K8g-HBg4zD127no9CJs_Xnonq94yDaw/view?usp=sharing
+
+
+
+7. Ejercicio #7
+
+Una compañía emplea a varias personas. A cada una le establece entre otras cosas el valor
+básico de su salario.  Tenga en cuenta que una misma persona puede trabajar en diferentes
+compañías. Ej, un profesor trabaja en varias universidades. Un analista trabaja en 2 compañías.
+
+Link: https://drive.google.com/file/d/1MfrkBpQvRng-ScNHTomPvmH7vl7g5JzT/view?usp=sharing
