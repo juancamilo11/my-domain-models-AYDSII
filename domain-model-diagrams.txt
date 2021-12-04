@@ -114,3 +114,14 @@ débito o crédito (para el ejercicio esta comisión es del 1.4% [4]). Por el mo
 por consola, pero se considera que en un futuro se escribirán en un archivo.
 
 Link: https://drive.google.com/file/d/1g4DV7xWRvsrHFAqDPmjL4In4vnTTneXG/view?usp=sharing
+
+
+
+11. Ejercicio #11
+
+6.	En  un dominio comercial, se tiene la empresa COME-RICO que vende productos.  Para mejorar las ventas, no solo ofrecen
+productos individuales, sino que también los empaquetan como nuevos productos. Por ejemplo, venden productos como: 
+01 – Galletas Tosh 12 ;    02 – Galletas Noel ;    03 – Chocolatina Milkyway;   04 – Paquete surtido económico.  Este 
+producto está conformado por 3 unidades de cada producto 01, 02 y 03.
+
+Link: https://drive.google.com/file/d/1qQGEGJND1ZLFt3GqyrAMU_PxdJuJ2Lrb/view?usp=sharing
