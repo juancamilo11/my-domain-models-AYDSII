@@ -138,3 +138,15 @@ los productos vendidos que corresponden al catálogo de la empresa, la cantidad 
 y su valor.  Al finalizar la venta se envía un mensaje al cliente por correo, texto o de voz.
 
 Link: https://drive.google.com/file/d/1VhrY8pldc5WRRz_y0B4Bouu02FRjfvTN/view?usp=sharing
+
+
+
+13. Ejercicio #13
+
+En una agencia de viajes. Ofrece servicios en el campo turístico, como son viajes, transporte,
+alojamiento, alimentación, entre otros.  Además, ofrece paquetes promocionales y personalizados. 
+Un paquete es una combinación de dos o más servicios en el campo turístico. Por lo general se
+ofrece a un precio menor del que tiene cada servicio incluido en el paquete. El objetivo de un
+paquete turístico es ahorrarle tiempo y dinero al cliente en la obtención de dichos productos.
+
+Link: https://drive.google.com/file/d/12s84VUn5ZtSEijJSoa5lC1oocQV4sEVa/view?usp=sharing
